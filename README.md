@@ -19,7 +19,7 @@ Pyython 股票盯盘助手
 IOS 推送功能是用这位老哥的
 https://github.com/tomg404/pushnotifier-python
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](img.png?raw=true "Title")
 
 - 👋 Hi, I’m @Tongvivi
 - 👀 I’m interested in basketball
